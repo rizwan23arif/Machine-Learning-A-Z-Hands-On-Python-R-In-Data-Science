@@ -2,7 +2,7 @@
 
 ## Data Preprocessing
 
-## Regression
+## Regression Models
 - Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Regression
@@ -10,7 +10,7 @@
 - Decision Tree Regression
 - Random Forest Regression
 
-## Classification
+## Classification Models
 - Logistic Regression
 - K-Nearest Neighbors
 - Support Vector Machines
